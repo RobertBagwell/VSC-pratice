@@ -8,3 +8,6 @@ p{
     color: #FFFFFF;
     font-size: medium;
 }
+img {
+    border: 1pt solid #707070;
+}
